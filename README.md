@@ -11,3 +11,7 @@
 
 - ![ES Green swatch](http://placehold.it/12x12/5AB552/FFFFFF/&text=+) ES Green `#5AB552` `RGB(90,181,82)`
 - ![ES Grey swatch](http://placehold.it/12x12/435261/FFFFFF/&text=+) ES Grey `#435261` `RGB(67,82,97)`
+
+## Mascot
+
+Download an [EPS](mascot/ouro.eps) file of Ouro, the Event Store mascot.
