@@ -10,7 +10,7 @@
 | Inverse logo                                                           | Mascot (Ouro)                                                                   | Avatar                                                                          |
 |:-----------------------------------------------------------------------|:--------------------------------------------------------------------------------|:--------------------------------------------------------------------------------|
 | ![Event Store logo (inverse)](readme-assets/logo-inverse.png)          | ![Event Store mascot (Ouro)](readme-assets/mascot.png)                       | ![Event Store avatar (white)](readme-assets/avatar.png)                       |
-| Download [PNG](logos/eventstore-inverse.png), [SVG](logos/eventstore-inverse.svg), or [EPS](logos/eventstore-inverse.eps)    | Download [SVG](mascot/ouro.svg) or [EPS](mascot/ouro.eps) | Download [PNG](avatars/eventstore-avatar.png), [SVG](avatars/eventstore-avatar.svg) or [SVG](avatars/eventstore-avatar.eps) |
+| Download [PNG](logos/eventstore-inverse.png), [SVG](logos/eventstore-inverse.svg), or [EPS](logos/eventstore-inverse.eps)    | Download [SVG](mascot/ouro.svg) or [EPS](mascot/ouro.eps) | Download [PNG](avatars/eventstore-avatar.png), [SVG](avatars/eventstore-avatar.svg) or [EPS](avatars/eventstore-avatar.eps) |
 
 ## Colours
 
