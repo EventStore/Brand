@@ -7,10 +7,10 @@
 | ![Event Store logo (colour)](readme-assets/logo-colour.png)            | ![Event Store logo (black)](readme-assets/logo-black.png)                       | ![Event Store logo (white)](readme-assets/logo-white.png)                       |
 | Download [PNG](logos/eventstore.png), [SVG](logos/eventstore.svg), or [EPS](logos/eventstore.eps)    | Download [PNG](logos/eventstore-black.png), [SVG](logos/eventstore-black.svg), or [EPS](logos/eventstore-black.eps) | Download [PNG](logos/eventstore-white.png), [SVG](logos/eventstore-white.svg) or [SVG](logos/eventstore-white.eps) |
 
-| Inverse logo                                                           |
-|:-----------------------------------------------------------------------
-| ![Event Store logo (inverse)](readme-assets/logo-inverse.png)          |
-| Download [PNG](logos/eventstore-inverse.png), [SVG](logos/eventstore-inverse.svg), or [EPS](logos/eventstore-inverse.eps)    |
+| Inverse logo                                                           |  |  |
+|:-----------------------------------------------------------------------|:-|:-|
+| ![Event Store logo (inverse)](readme-assets/logo-inverse.png)          |  |  |
+| Download [PNG](logos/eventstore-inverse.png), [SVG](logos/eventstore-inverse.svg), or [EPS](logos/eventstore-inverse.eps)    |  |  |
 
 ## Colours
 
